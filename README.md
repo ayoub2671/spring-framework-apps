@@ -13,6 +13,7 @@ A simple Spring MVC application using Thymeleaf template engine.
 1. Open the `task1` project in IntelliJ
 2. Run `Task1Application.java`
 3. Open browser at `http://localhost:8080`
+<img width="829" height="276" alt="image" src="https://github.com/user-attachments/assets/ef3d1912-a5f7-4d07-b884-529f7e980072" />
 
 ### Endpoints
 - `GET /` - Returns "Hello World!" text
